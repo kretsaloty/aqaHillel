@@ -1,5 +1,4 @@
 # task 01 == Виправте синтаксичні помилки
-import var
 
 print("Hello", end=" ")
 print("world!")
@@ -89,3 +88,4 @@ second_book = first_book + 2
 third_book = (first_book + second_book) / 2
 sum_books = first_book + second_book + third_book
 print("The sum of all books will be", sum_books, "UAH")
+
