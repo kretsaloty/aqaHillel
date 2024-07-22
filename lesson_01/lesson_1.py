@@ -77,15 +77,9 @@ sum_children = (boys + girls) - (absent_boys + absent_girls)
 print("Today there are only", sum_children, "children in the theatre group")
 
 # task 10
-"""
-Перша книжка коштує 8 грн., друга - на 2 грн. дороже,
-а третя - як половина вартості першої та другої разом.
-Скільки будуть коштувати усі книги, якщо купити по одному примірнику?
-"""
 
 first_book = 8
 second_book = first_book + 2
 third_book = (first_book + second_book) / 2
 sum_books = first_book + second_book + third_book
 print("The sum of all books will be", sum_books, "UAH")
-
